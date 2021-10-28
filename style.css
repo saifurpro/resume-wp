@@ -129,7 +129,7 @@
 }
 .course-group h4 span {
   position: absolute;
-  left: -20px;
+  left: -25px;
 }
 .course-group span a {
   color: #04acfc;
@@ -183,7 +183,7 @@
 .right-area p {
   padding-left: 70px;
   font-size: 17px;
-  color: #666;
+  color: #333;
   margin-top: 10px;
 }
 .work .work-group {
@@ -290,6 +290,8 @@ button:hover {
     zoom: 56%;
   }
 }
+
+/* Tablet and Mobile Layout         */
 @media only screen and (max-width: 991px) {
   .print-area {
     margin: 20px;
